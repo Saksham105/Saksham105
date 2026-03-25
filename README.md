@@ -1,5 +1,5 @@
 # 💫 About Me:
-My main strengths lie in C, C++, Java, and Data Structures & Algorithms, with a deep interest in system-level programming, memory management, and performance-critical code. I regularly practice problem-solving on platforms like LeetCode, focusing on edge cases, overflow handling, and clean logic.<br>Languages: C, C++, Java<br><br>Core CS: DSA, OOP, Memory Management, File Handling<br><br>Embedded: Raspberry Pi, Sensors, Hardware–Software Integration<br><br>Backend Concepts: Service Design, Order Management Systems, REST APIs<br><br>Tools: Git, GitHub, Linux basics<br><br>Learning Focus: System programming, performance, scalable design
+My main strengths lie in C, C++, Java, and Data Structures & Algorithms, with a deep interest in system-level programming, memory management, and performance-critical code. I regularly practice problem-solving on platforms like LeetCode, focusing on edge cases, overflow handling, and clean logic.<br>Languages: C, C++, Java<br><br>Core CS: DSA, OOP, Memory Management, File Handling<br>Embedded: Raspberry Pi, Sensors, Hardware–Software Integration<br>Backend Concepts: Service Design, Order Management Systems, REST APIs<br>Tools: Git, GitHub, Linux basics<br>Learning Focus: System programming, performance, scalable design
 
 
 ## 🌐 Socials:
